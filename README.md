@@ -105,10 +105,20 @@ fun_fact: "I transitioned from Aeronautical Engineering to DevOps - now I help a
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=SanjaySundarMurthy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7&text_color=c9d1d9" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySundarMurthy&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee" height="180" />
+<a href="https://github.com/SanjaySundarMurthy">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjaySundarMurthy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/SanjaySundarMurthy">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySundarMurthy&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee" height="180" alt="GitHub Streak"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySundarMurthy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" height="160" />
+</div>
+
+<div align="center">
+  
+<a href="https://github.com/SanjaySundarMurthy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySundarMurthy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8" height="160" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -118,11 +128,58 @@ fun_fact: "I transitioned from Aeronautical Engineering to DevOps - now I help a
 
 <div align="center">
 
-[![Enterprise K8s Platform](https://github-readme-stats.vercel.app/api/pin/?username=SanjaySundarMurthy&repo=Enterprise-k8s-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7)](https://github.com/SanjaySundarMurthy/Enterprise-k8s-platform)
-[![Azure DevOps Pipelines](https://github-readme-stats.vercel.app/api/pin/?username=SanjaySundarMurthy&repo=Azure-DevOps-Pipelines&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7)](https://github.com/SanjaySundarMurthy/Azure-DevOps-Pipelines)
+<table>
+<tr>
+<td width="50%">
 
-[![K8s Observability Stack](https://github-readme-stats.vercel.app/api/pin/?username=SanjaySundarMurthy&repo=k8s-observability-stack&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7)](https://github.com/SanjaySundarMurthy/k8s-observability-stack)
-[![Container Security Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SanjaySundarMurthy&repo=container-security-pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7)](https://github.com/SanjaySundarMurthy/container-security-pipeline)
+### 🚀 Enterprise K8s Platform
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjaySundarMurthy&repo=Enterprise-k8s-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7&description_lines_count=2)](https://github.com/SanjaySundarMurthy/Enterprise-k8s-platform)
+
+**Multi-cluster Kubernetes platform on Azure AKS with GitOps**
+
+`Azure AKS` `Kubernetes` `ArgoCD` `Helm` `Terraform`
+
+</td>
+<td width="50%">
+
+### ⚡ Azure DevOps Pipelines
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjaySundarMurthy&repo=Azure-DevOps-Pipelines&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7&description_lines_count=2)](https://github.com/SanjaySundarMurthy/Azure-DevOps-Pipelines)
+
+**Enterprise CI/CD pipelines for 50+ microservices**
+
+`Azure DevOps` `Docker` `SonarQube` `Trivy` `YAML`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 K8s Observability Stack
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjaySundarMurthy&repo=k8s-observability-stack&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7&description_lines_count=2)](https://github.com/SanjaySundarMurthy/k8s-observability-stack)
+
+**Comprehensive monitoring with Prometheus & Grafana**
+
+`Prometheus` `Grafana` `ELK Stack` `AlertManager`
+
+</td>
+<td width="50%">
+
+### 🔒 Container Security Pipeline
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjaySundarMurthy&repo=container-security-pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7&description_lines_count=2)](https://github.com/SanjaySundarMurthy/container-security-pipeline)
+
+**Automated container security scanning pipeline**
+
+`Trivy` `Aqua Security` `Azure DevOps` `Docker`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/SanjaySundarMurthy?tab=repositories">
+  <img src="https://img.shields.io/badge/🔗_View_All_Repositories-22d3ee?style=for-the-badge" alt="View All Repos"/>
+</a>
 
 </div>
 
