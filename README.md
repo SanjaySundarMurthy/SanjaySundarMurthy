@@ -3,6 +3,8 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:a855f7&height=200&section=header&text=Sanjay%20S&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20DevOps%20Engineer%20|%20Azure%20Expert%20|%20Kubernetes%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
+<br/>
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=600&lines=5%2B+Years+in+DevOps+%26+Cloud+Engineering;Azure+%7C+Kubernetes+%7C+Terraform+Expert;Building+Scalable+Infrastructure+Solutions;Automating+Everything+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
@@ -101,29 +103,6 @@ fun_fact: "I transitioned from Aeronautical Engineering to DevOps - now I help a
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-<a href="https://github.com/SanjaySundarMurthy">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjaySundarMurthy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/SanjaySundarMurthy">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySundarMurthy&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee" height="180" alt="GitHub Streak"/>
-</a>
-
-</div>
-
-<div align="center">
-  
-<a href="https://github.com/SanjaySundarMurthy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySundarMurthy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8" height="160" alt="Top Languages"/>
-</a>
-
-</div>
-
----
-
 ## 🔥 Featured Projects
 
 <div align="center">
@@ -180,16 +159,6 @@ fun_fact: "I transitioned from Aeronautical Engineering to DevOps - now I help a
 <a href="https://github.com/SanjaySundarMurthy?tab=repositories">
   <img src="https://img.shields.io/badge/🔗_View_All_Repositories-22d3ee?style=for-the-badge" alt="View All Repos"/>
 </a>
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-  
-[![Sanjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjaySundarMurthy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=a855f7&point=22d3ee)](https://github.com/SanjaySundarMurthy)
 
 </div>
 
