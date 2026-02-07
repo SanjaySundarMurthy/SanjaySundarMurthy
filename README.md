@@ -13,7 +13,7 @@
 <br/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=%E2%9A%A1+5%2B+Years+Building+Cloud+Native+Solutions;%F0%9F%9A%80+Azure+%7C+Kubernetes+%7C+Terraform+%7C+GitOps+Expert;%F0%9F%94%A5+Automating+Everything+That+Moves!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=50&lines=%E2%9A%A1+5%2B+Years+Building+Cloud+Native+Solutions;%F0%9F%9A%80+Azure+%7C+Kubernetes+%7C+Terraform+%7C+GitOps+Expert;%F0%9F%94%A5+Automating+Everything+That+Moves!" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -345,7 +345,7 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=💬+Open+to+DevOps+%26+Platform+Engineering+Roles;🌍+Open+to+Remote+%26+Relocation+Opportunities;🚀+Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%92%AC+Open+to+DevOps+%26+Platform+Engineering+Roles;%F0%9F%8C%8D+Open+to+Remote+%26+Relocation+Opportunities;%F0%9F%9A%80+Let's+Build+Something+Amazing+Together!" alt="Typing SVG" /></a>
 
 <br/><br/>
 
