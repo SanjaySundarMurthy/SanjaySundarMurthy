@@ -56,7 +56,7 @@ education: B.E. Aeronautical Engineering (VTU)
 visa: B1/B2 US Visa Holder
 
 expertise:
-  ☁️ Cloud: Azure, AWS, GCP
+  ☁️ Cloud: Azure, AWS
   🐳 Containers: Kubernetes, AKS, Docker, Helm
   🔄 CI/CD: Azure DevOps, GitHub Actions, ArgoCD
   🏗️ IaC: Terraform, ARM Templates, Ansible
